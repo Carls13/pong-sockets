@@ -1,0 +1,28 @@
+{
+  "name": "pong-sockets",
+  "version": "1.0.0",
+  "description": "Multiplayer Pong project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carls13/pong-sockets.git"
+  },
+  "keywords": [
+    "pong",
+    "multiplayer",
+    "sockets"
+  ],
+  "author": "Carlos Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carls13/pong-sockets/issues"
+  },
+  "homepage": "https://github.com/Carls13/pong-sockets#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
